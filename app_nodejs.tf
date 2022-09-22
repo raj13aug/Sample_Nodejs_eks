@@ -112,5 +112,3 @@ resource "kubernetes_service" "mongo" {
     }
   }
 }
-
-#https://www.clickittech.com/devops/terraform-kubernetes-deployment/
